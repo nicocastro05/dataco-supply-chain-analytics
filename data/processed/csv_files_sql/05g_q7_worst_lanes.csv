@@ -1,0 +1,11 @@
+market,shipping_mode,total_items,total_late_items,late_rate_pct,profit_tied_up_in_late_orders
+Europe,Standard Class,29740,11869,39.91,267374.87
+LATAM,Standard Class,31119,12334,39.63,249127.88
+Pacific Asia,Standard Class,24586,9798,39.85,208059.72
+Europe,First Class,7892,7892,100.0,193185.03
+LATAM,First Class,7886,7886,100.0,183988.62
+LATAM,Second Class,9939,7846,78.94,173394.68
+Europe,Second Class,9861,7887,79.98,168048.87
+Pacific Asia,First Class,6301,6301,100.0,140862.29
+USCA,Standard Class,15252,6028,39.52,126109.05
+Pacific Asia,Second Class,8147,6552,80.42,124508.71
